@@ -1,6 +1,6 @@
 name: flask-helloworld
 on:
-  push: branches:[ master ]
+  push: branches:[ main ]
 
 jobs:
   docker:
